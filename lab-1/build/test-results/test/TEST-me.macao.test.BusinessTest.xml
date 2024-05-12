@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.macao.test.BusinessTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-04-13T04:58:17" hostname="lndn.local" time="0.02">
+  <properties/>
+  <testcase name="TransferTest()" classname="me.macao.test.BusinessTest" time="0.007"/>
+  <testcase name="WithdrawRefillTest()" classname="me.macao.test.BusinessTest" time="0.001"/>
+  <testcase name="AccountCreationTest()" classname="me.macao.test.BusinessTest" time="0.0"/>
+  <testcase name="notАllowedWithdrawTest()" classname="me.macao.test.BusinessTest" time="0.001"/>
+  <testcase name="UserCreationTest()" classname="me.macao.test.BusinessTest" time="0.001"/>
+  <testcase name="negativeTransferTest()" classname="me.macao.test.BusinessTest" time="0.0"/>
+  <testcase name="WithdrawRefillTest2()" classname="me.macao.test.BusinessTest" time="0.0"/>
+  <testcase name="creditAccountTest()" classname="me.macao.test.BusinessTest" time="0.001"/>
+  <testcase name="BankCreationTest()" classname="me.macao.test.BusinessTest" time="0.004"/>
+  <testcase name="depositWithdrawTest()" classname="me.macao.test.BusinessTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
