@@ -1,4 +1,5 @@
-# ITMO Java-tech labs (1-4 labs, 5 -> todo)
+# ITMO Java-tech labs (1, 2, 4)
+5 -> 
 
 # Lab-1
 
