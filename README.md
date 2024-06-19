@@ -1,5 +1,5 @@
 # ITMO Java-tech labs (1, 2, 4)
-5 -> 
+5 -> https://github.com/mpxx1/is-java-05
 
 # Lab-1
 
